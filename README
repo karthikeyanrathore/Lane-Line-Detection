@@ -2,3 +2,11 @@ Introduction
 In this Project we are building one of the components of the autonomous driving system (ADS) that is lane line detection on the road. Computer vision plays a very important part in detecting lane lines on the road for autonomous driving. Lane  lines are designed  for humans to follow while driving. In the same way, an autonomous driving system  uses lane lines to steer the vehicle accordingly and follow the road track in the correct orientation. In this Project, we will be implementing various computer vision algorithms to detect real
 time lane lines on the road using dataset which includes dashcam footage and dashcam images of the road.
 
+
+- Simple Lane Line Detection
+https://medium.com/@mrhwick/simple-lane-detection-with-opencv-bfeb6ae54ec0
+
+Paper -
+https://sci-hub.mksa.top/10.1109/ICCCE.2008.4580573 (Hough Transform)
+https://sci-hub.mksa.top/10.1109/ccdc.2019.8833139 (improved Hough Trn)
+https://sci-hub.mksa.top/10.1109/AEECA49918.2020.9213624
