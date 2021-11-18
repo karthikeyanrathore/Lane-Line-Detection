@@ -6,7 +6,42 @@ time lane lines on the road using dataset which includes dashcam footage and das
 - Simple Lane Line Detection
 https://medium.com/@mrhwick/simple-lane-detection-with-opencv-bfeb6ae54ec0
 
+
 Paper -
 https://sci-hub.mksa.top/10.1109/ICCCE.2008.4580573 (Hough Transform)
 https://sci-hub.mksa.top/10.1109/ccdc.2019.8833139 (improved Hough Trn)
 https://sci-hub.mksa.top/10.1109/AEECA49918.2020.9213624
+
+
+Gihtub
+- https://github.com/galenballew/SDC-Lane-and-Vehicle-Detection-Tracking (simple , semi , adv)
+
+Simple
+- lane line detect
+
+Semi (better)
+- vechile going off lane or not?
+
+Adv.
+- vechile detection.
+- warn driver to brake when he is close to any object.
+
+
+Questions
+- How much weather conditions impacts/disturbs the lane line detection system?
+- How much car, building, tree etc shadows impacts/disturbs the lane line detection system?
+- if diff car drives on the lane, will it output something diff?
+
+
+
+
+ideas
+- Our System will warn the driver when he is not in lane. (BEEP SOUND) 
+- Our System will assist driver to go slow when there is a curve in the video.
+- Our System will assist driver to brake when is close to object.
+
+
+Might not ignore ideas (additional)
+- Build a system which warns drive when he is too close to vehicle which is in front. (autoatic Breaking System).
+
+

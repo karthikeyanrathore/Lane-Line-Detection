@@ -1,0 +1,33 @@
+https://sci-hub.mksa.top/10.1109/ICCCE.2008.4580573
+
+Introduction
+- road with lane lines painted or not-painted.
+- straight roads and round curves.
+- Algorithm works in extreme weather conditions.
+- Road Boundaries are detected by fitting parallel hyperbola pairs to the edges of the lane after applying
+some edge detection tech & Hough Transform.
+
+
+Related Work
+* GOLD - http://www.ce.unipr.it/research/GOLD/
+
+
+
+
+
+
+
+
+
+MIGHT BE HELPFUL
+Which is the best edge lane line detction algorithm ?
+* Development of Edge-Based Lane Detection Algorithm using Image Processing - https://www.researchgate.net/publication/323198429_Development_of_Edge-Based_Lane_Detection_Algorithm_using_Image_Processing
+
+- They applied 4 tech for lane edges detection
+- Roberts
+- Prewitt
+- Sobel
+- Canny
+
+
+
