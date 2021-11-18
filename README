@@ -31,8 +31,11 @@ Questions
 - How much weather conditions impacts/disturbs the lane line detection system?
 - How much car, building, tree etc shadows impacts/disturbs the lane line detection system?
 - if diff car drives on the lane, will it output something diff?
+- Morning, evening, night , will it impact?
 
-
+Answer
+- yes,. All the above Questions are taken
+into account while building the system.
 
 
 ideas

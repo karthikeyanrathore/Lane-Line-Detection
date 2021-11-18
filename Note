@@ -11,10 +11,22 @@ some edge detection tech & Hough Transform.
 Related Work
 * GOLD - http://www.ce.unipr.it/research/GOLD/
 
+Algorithm
+- 620x480 RGB img
+- grayscale (to minimize processing time)
+- noise reduction (which might hinder the edge detection)
+- FHD Algorithm (removes shadows fro images)
+- canny filter [edge image == lane detector (prodcue left & right boundary)]
+- Hough Transform (series of points on left & right)
+- pair of Hyperbola (produce lane lines)
 
 
-
-
+Hough Transform
+- HT search for lines. using some equation.
+- highlights horizontal lines (common sense)
+- each left & right are searched seperatly.
+- outputs Hough Lines.
+- These Hough Lines are scanned & outputs Left Lane  Points & Right Line Points basically COORDINATES 
 
 
 
