@@ -1,0 +1,14 @@
+ways to detect lane lines
+- Hough Transform
+- sliding window polynomial fitting
+
+Hough Transform is good for straight lane lines.
+S.W.P much better than HT in curved lines.
+
+
+
+
+
+
+
+
