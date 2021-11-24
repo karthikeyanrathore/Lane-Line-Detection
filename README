@@ -2,6 +2,8 @@ Introduction
 In this Project we are building one of the components of the autonomous driving system (ADS) that is lane line detection on the road. Computer vision plays a very important part in detecting lane lines on the road for autonomous driving. Lane  lines are designed  for humans to follow while driving. In the same way, an autonomous driving system  uses lane lines to steer the vehicle accordingly and follow the road track in the correct orientation. In this Project, we will be implementing various computer vision algorithms to detect real
 time lane lines on the road using dataset which includes dashcam footage and dashcam images of the road.
 
+Best Algo for Simple Lane
+- https://amanmander123.github.io/finding-lane-lines-on-the-road.html (*BEST)
 
 - Simple Lane Line Detection
 https://medium.com/@mrhwick/simple-lane-detection-with-opencv-bfeb6ae54ec0 (They have not used FHD algo.)
@@ -51,7 +53,6 @@ Might not ignore ideas (additional)
 Ref
 - https://medium.com/@c.ramprasad273/self-driving-car-nanodegree-udacity-project-1-finding-lane-lines-on-the-road-6b3c208aeada
 - https://github.com/Ramprasad273/Self-Driving-Car-Nanodegree-Udacity/blob/master/Project1/Project1.ipynb
-
 
 
 
