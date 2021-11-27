@@ -36,7 +36,7 @@ D. edge detection
 - TODO: Sobel, Roberts, Prewitt. ED images
 
 * image pre. techniques (IMP: Yellow lanes  & much more advance) 
-TODO: https://sci-hub.mksa.top/10.1109/AEECA49918.2020.9213624
+- Done: Yellow.ipynb
 
 * Region of interest (ROI)
 
