@@ -5,14 +5,14 @@ So the basic idea behind Hough Transform is to find aligned points in images tha
 
 Let us see this input image here , FIRST we will apply edge detection algorithm such as canny or sobel  and after applying edge detection, we will apply Hough Transform inorder to detect points in images that creates lines.
 
-Let Us see How Hough Transform works?
+So Let Us see How Hough Transform works?
 
 NEXT
 Let us consider this img plane xy and we have points on a straight line. This straight line can be this or this.
 A stright line can be represented as this equation rho = xcos(theta) + ysin(theta), where rho is the distance from the center to the line, theta is the
-angle with the line connecting center to the straight line. So every point on the straight line holds this equation.
+angle with the line connecting center to the straight line. So every point on this straight line holds this equation.
 
-So here the idea behind Hough Transform, so we pick a point which comes from the edge detector and we found that there is infinite no. of lines going 
+So here is the idea behind Hough Transform, so we pick a point which comes from the edge detector and we found that there is infinite no. of lines going 
 through it.
 
 This straight line is one of them with a particular rho, particular theta.
@@ -22,8 +22,8 @@ So all the votes will get a single vote, meaning this straight line is common to
 to get values of rho and theta for this line, not only two pts there is another pt here, so this is getting 3 votes one for each pt that the edge 
 detector found.
 
-So basically the line which gets a large amount of votes is the line of intrest. So every pt that the edge detector found  votes for all the possible lines
-so if there are multiple votes on a single line then we are going to have multiple votes. So thats how Hough Transform works.
+So basically the line which gets a large amount of votes is the line of interest. So every pt that the edge detector found  votes for all the possible lines
+so if there are multiple votes on a single line that is the line of interest. So thats how Hough Transform works.
 
 
 
