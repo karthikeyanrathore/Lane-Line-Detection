@@ -11,7 +11,12 @@ time lane lines on the road using dataset which includes dashcam footage and das
 ### Yellow Lane Line
 ![Yellow Lane Line](https://github.com/karthikeyanrathore/Lane-Line-Detection/blob/main/junk/solidYellowLeft_edge_output.gif)
 
-
+### Team Members
+- ![daksh jain](https://github.com/DakshJn)
+- ![manish sharma](https://github.com/manishsharma8)
+- ![karthikeyan rathore](https://github.com/karthikeyanrathore)
+- ![sunisth kumar](https://github.com/ksunisth)
+- ![anwesh badapanda](https://github.com/anweshb)
 
 
 
