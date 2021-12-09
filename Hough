@@ -4,7 +4,7 @@ Hough Transform
 HT is a really nice technique to segment out objects for which you know their shape, it can be a straight line or a cirle.
 First we are going to detect straight lines in this image.
 
-So Let us consider this img plane xy and we have points on a straight line. This straight line can be this or this.
+Let us consider this img plane xy and we have points on a straight line. This straight line can be this or this.
 A stright line can be represented as this equation rho = xcos(theta) + ysin(theta), where rho is the distance from the center to the line, theta is the
 angle with the line connecting center to the straight line. So every point on the straight line holds this equation.
 
