@@ -1,4 +1,1 @@
-#!/bin/bash
-source ~/.bash_profile
-conda activate
-jupyter notebook
+VID=1 ./main.py data/vids/solidWhiteRight.mp4
